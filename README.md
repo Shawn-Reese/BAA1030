@@ -1,1 +1,2 @@
-# BAA1030
+# This is a commit test exercise...
+Students for BAA1030 are following along. Let's see how this goes! 
